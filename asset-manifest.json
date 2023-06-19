@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-6-Portfolio/static/css/main.82b6c22d.css",
+    "main.js": "/reactjs-6-Portfolio/static/js/main.246f6911.js",
+    "static/media/resume.pdf": "/reactjs-6-Portfolio/static/media/resume.db8eed621593152215a3.pdf",
+    "static/media/profilephoto.jpeg": "/reactjs-6-Portfolio/static/media/profilephoto.f01baab33496bee2712a.jpeg",
+    "index.html": "/reactjs-6-Portfolio/index.html",
+    "main.82b6c22d.css.map": "/reactjs-6-Portfolio/static/css/main.82b6c22d.css.map",
+    "main.246f6911.js.map": "/reactjs-6-Portfolio/static/js/main.246f6911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b6c22d.css",
+    "static/js/main.246f6911.js"
+  ]
+}
